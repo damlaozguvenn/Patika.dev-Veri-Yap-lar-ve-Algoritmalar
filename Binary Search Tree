@@ -1,0 +1,12 @@
+Verilen dizi: [7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
+
+Adım: Root 7'dir.
+Adım: Root'un sağına 8 gelir.
+Adım: Root'un soluna 5 gelir.
+Adım: 5'in sağına 6 gelir.
+Adım: 5'in soluna 1 gelir.
+Adım: 1'in sağına 3 gelir.
+Adım: 3'ün soluna 2 gelir.
+Adım: 1'in soluna 0 gelir.
+Adım: 8'in sağına 9 gelir.
+Adım: 9'un soluna 4 gelir.
