@@ -22,7 +22,7 @@ Dizi sıralandıktan sonra: [2, 6, 16, 18, 22, 27]
 
 18 sayısı dizinin ortasında yer alıyor.
 Bu durumda Average Case kapsamına girer.
-Selection Sort Aşamaları
+
 Verilen dizi: [7, 3, 5, 8, 2, 9, 4, 15, 6]
 
 Adım: [2, 3, 5, 8, 7, 9, 4, 15, 6] 
